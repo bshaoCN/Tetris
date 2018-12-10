@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tetris.Android", "Tetris\Tetris.Android\Tetris.Android.csproj", "{35BE260A-58C2-4C40-B320-3DFD2CB320EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tetris", "Tetris\Tetris\Tetris.csproj", "{00A1F9C5-3181-45C0-A228-C1F3FFE2D4F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35BE260A-58C2-4C40-B320-3DFD2CB320EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35BE260A-58C2-4C40-B320-3DFD2CB320EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35BE260A-58C2-4C40-B320-3DFD2CB320EF}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{35BE260A-58C2-4C40-B320-3DFD2CB320EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35BE260A-58C2-4C40-B320-3DFD2CB320EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35BE260A-58C2-4C40-B320-3DFD2CB320EF}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{00A1F9C5-3181-45C0-A228-C1F3FFE2D4F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00A1F9C5-3181-45C0-A228-C1F3FFE2D4F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00A1F9C5-3181-45C0-A228-C1F3FFE2D4F9}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{00A1F9C5-3181-45C0-A228-C1F3FFE2D4F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00A1F9C5-3181-45C0-A228-C1F3FFE2D4F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00A1F9C5-3181-45C0-A228-C1F3FFE2D4F9}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B143835-0FAA-48A3-90BB-DFEEF817013C}
+	EndGlobalSection
+EndGlobal
